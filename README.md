@@ -1,1 +1,2 @@
 lBSwMnfMAYb5bogLMTePsn/kZZ9j3/BXOmpTp6GYqa+ACRAQUL3l
+group10registry.azurecr.io
